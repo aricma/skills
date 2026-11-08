@@ -10,4 +10,7 @@ Open work for the aricma public skills repo. `(pN:eN)` is priority and effort,
 - [ ] Add CHANGELOG.md and per-skill versions once the first skill ships (p2:e1)
 - [ ] Point CI at `mask ci` instead of repeating the steps, if the two ever drift (p3:e1)
 
+## SKILLS
+- [ ] add lazytodo skill
+
 ## Done ✅
