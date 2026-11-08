@@ -1,0 +1,8 @@
+# Tools installed into ./tmp/bin by `mask setup`.
+# Only tools this repo's own commands need. Tools that only a skill needs are
+# installed by that skill, not declared here. mask and mise bootstrap
+# themselves and are intentionally not listed: mise cannot install itself, and
+# mask is the entry point that calls mise.
+
+[tools]
+dprint = "0.64.3"

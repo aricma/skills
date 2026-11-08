@@ -1,0 +1,5 @@
+# Everything transient → ./tmp/
+tmp/
+**/tmp/
+
+.DS_Store

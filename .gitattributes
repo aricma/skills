@@ -1,0 +1,3 @@
+# Markdown is the product here: keep line endings identical on every machine so
+# dprint's check and git diffs agree.
+* text=auto eol=lf
